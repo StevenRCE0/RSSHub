@@ -4031,18 +4031,6 @@
       }
     ]
   },
-  "fosshub.com": {
-    "_name": "FossHub",
-    ".": [
-      {
-        "title": "Software Update",
-        "docs": "https://docs.rsshub.app/program-update.html#fosshub-software-update",
-        "source": [
-          "/"
-        ]
-      }
-    ]
-  },
   "ftchinese.com": {
     "_name": "Financial Times",
     ".": [
@@ -9744,11 +9732,11 @@
     ".": [
       {
         "title": "What We're Reading",
-        "docs": "https://docs.rsshub.app/shopping.html#furstar-zui-xin-shou-mai-jiao-se-lie-biao",
+        "docs": "https://docs.rsshub.app/traditional-media.html#penguin-random-house",
         "source": [
-          "/content-archive"
+          "/the-read-down"
         ],
-        "target": "/penguinrandomhouse/recommendations"
+        "target": "/penguinrandomhouse/thereaddown"
       }
     ]
   },

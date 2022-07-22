@@ -876,9 +876,6 @@
     "/fortunechina/:category?": [
         "nczitzk"
     ],
-    "/fosshub/:id": [
-        "nczitzk"
-    ],
     "/ft/ft/myft/:key": [
         "HenryQW"
     ],
@@ -2088,7 +2085,7 @@
     "/panewslab/:category?": [
         "nczitzk"
     ],
-    "/penguinrandomhouse/recommendations": [
+    "/penguinrandomhouse/thereaddown": [
         "StevenRCE0"
     ],
     "/people/cpc/24h": [
