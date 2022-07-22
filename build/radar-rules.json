@@ -764,6 +764,20 @@
       }
     ]
   },
+  "android.com": {
+    "_name": "Android Developers",
+    "developer": [
+      {
+        "title": "SDK Platform Tools release notes",
+        "docs": "https://docs.rsshub.app/program-update.html#android-sdk-platform-tools-release-notes",
+        "source": [
+          "/studio/releases/platform-tools",
+          "/"
+        ],
+        "target": "/android/platform-tools-releases"
+      }
+    ]
+  },
   "apnews.com": {
     "_name": "AP News",
     ".": [
@@ -1067,7 +1081,21 @@
         "source": [
           "/"
         ],
-        "target": "/bios/:model"
+        "target": "/asus/bios/:model"
+      }
+    ]
+  },
+  "asus.com": {
+    "_name": "ASUS",
+    ".": [
+      {
+        "title": "GPU Tweak",
+        "docs": "https://docs.rsshub.app/program-update.html#hua-shuo",
+        "source": [
+          "/campaign/GPU-Tweak-III/*",
+          "/"
+        ],
+        "target": "/asus/gpu-tweak"
       }
     ]
   },
@@ -2538,6 +2566,20 @@
       }
     ]
   },
+  "cpuid.com": {
+    "_name": "CPUID",
+    ".": [
+      {
+        "title": "News",
+        "docs": "https://docs.rsshub.app/program-update.html#cpuid",
+        "source": [
+          "/news.html",
+          "/"
+        ],
+        "target": "/cpuid/news"
+      }
+    ]
+  },
   "cqwu.net": {
     "_name": "重庆文理学院",
     "www": [
@@ -2604,6 +2646,15 @@
         "docs": "https://docs.rsshub.app/university.html#zhong-nan-da-xue",
         "source": [
           "/index/:type"
+        ]
+      }
+    ],
+    "oa": [
+      {
+        "title": "校长信箱",
+        "docs": "https://docs.rsshub.app/university.html#zhong-nan-da-xue",
+        "source": [
+          "/WebServer/MailBoxNew/MailList_Pub.aspx?tp=:type"
         ]
       }
     ]
@@ -4028,6 +4079,18 @@
           "/"
         ],
         "target": "/fortunechina/:category?"
+      }
+    ]
+  },
+  "fosshub.com": {
+    "_name": "FossHub",
+    ".": [
+      {
+        "title": "Software Update",
+        "docs": "https://docs.rsshub.app/program-update.html#fosshub-software-update",
+        "source": [
+          "/"
+        ]
       }
     ]
   },
@@ -5934,6 +5997,21 @@
       {
         "title": "最新H5",
         "docs": "https://docs.rsshub.app/design.html#ai-guo-guo-h5"
+      }
+    ]
+  },
+  "imagemagick.org": {
+    "_name": "Changelog",
+    ".": [
+      {
+        "title": "ChangeLog",
+        "docs": "https://docs.rsshub.app/program-update.html#imagemagick-changelog",
+        "source": [
+          "/script/download.php",
+          "/script",
+          "/"
+        ],
+        "target": "/imagemagick/changelog"
       }
     ]
   },
@@ -10082,6 +10160,20 @@
           "/trending",
           "/"
         ]
+      }
+    ]
+  },
+  "chiark.greenend.org.uk": {
+    "_name": "PuTTY",
+    "www": [
+      {
+        "title": "Change Log",
+        "docs": "https://docs.rsshub.app/program-update.html#putty-change-log",
+        "source": [
+          "/~sgtatham/putty/changes.html",
+          "/"
+        ],
+        "target": "/putty/changes"
       }
     ]
   },

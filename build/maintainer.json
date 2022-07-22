@@ -179,6 +179,9 @@
     "/ally/rail/:category?/:topic?": [
         "Rongronggg9"
     ],
+    "/android/platform-tools-releases": [
+        "nczitzk"
+    ],
     "/apnews/topics/:topic?": [
         "zoenglinghou",
         "mjysci",
@@ -239,6 +242,9 @@
     ],
     "/asus/bios/:model": [
         "Fatpandac"
+    ],
+    "/asus/gpu-tweak": [
+        "TonyRL"
     ],
     "/atcoder/post/:language?/:keyword?": [
         "nczitzk"
@@ -876,6 +882,9 @@
     "/fortunechina/:category?": [
         "nczitzk"
     ],
+    "/fosshub/:id": [
+        "nczitzk"
+    ],
     "/ft/ft/myft/:key": [
         "HenryQW"
     ],
@@ -1377,6 +1386,9 @@
     ],
     "/iguoguo/html5": [
         "yuxinliu-alex"
+    ],
+    "/imagemagick/changelog": [
+        "nczitzk"
     ],
     "/independent/ps5-stock-uk": [
         "DIYgod"
@@ -2197,6 +2209,9 @@
         "nczitzk"
     ],
     "/pubmed/trending/:filters?": [
+        "nczitzk"
+    ],
+    "/putty/changes": [
         "nczitzk"
     ],
     "/qbittorrent/news": [
