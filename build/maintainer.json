@@ -336,6 +336,9 @@
     "/bookfere/:category": [
         "OdinZhang"
     ],
+    "/brave/latest": [
+        "nczitzk"
+    ],
     "/brooklynmuseum/exhibitions": [
         "chazeon"
     ],
@@ -570,6 +573,9 @@
         "Fatpandac"
     ],
     "/disinfo/publications": [
+        "nczitzk"
+    ],
+    "/diskanalyzer/whats-new": [
         "nczitzk"
     ],
     "/distill/": [
