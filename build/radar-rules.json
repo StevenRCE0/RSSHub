@@ -9838,7 +9838,7 @@
     ".": [
       {
         "title": "Penguin Random House Book Lists",
-        "docs": "https://docs.rsshub.app/traditional-media.html#penguin-random-house",
+        "docs": "https://docs.rsshub.app/reading.html#penguin-random-house",
         "source": [
           "/the-read-down"
         ],
@@ -9846,7 +9846,7 @@
       },
       {
         "title": "Penguin Random House Articles",
-        "docs": "https://docs.rsshub.app/traditional-media.html#penguin-random-house",
+        "docs": "https://docs.rsshub.app/reading.html#penguin-random-house",
         "source": [
           "/articles"
         ],
