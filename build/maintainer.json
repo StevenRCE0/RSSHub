@@ -2097,7 +2097,10 @@
     "/panewslab/:category?": [
         "nczitzk"
     ],
-    "/penguinrandomhouse/thereaddown": [
+    "/penguinrandomhouse/the-read-down": [
+        "StevenRCE0"
+    ],
+    "/penguinrandomhouse/articles": [
         "StevenRCE0"
     ],
     "/people/cpc/24h": [
