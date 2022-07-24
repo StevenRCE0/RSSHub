@@ -5463,7 +5463,7 @@
         docs:"https://docs.rsshub.app/new-media.html#panews-zhuan-ti",
         source:"/",
         target:"/panewslab/topic/:id" } ] },
-  "www.penguinrandomhouse.com":{ _name:"Penguin Random House",
+  "penguinrandomhouse.com":{ _name:"Penguin Random House",
     ".":[ { title:"Penguin Random House Book Lists",
         docs:"https://docs.rsshub.app/reading.html#penguin-random-house",
         source:[ "/the-read-down" ],
