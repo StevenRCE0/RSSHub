@@ -8162,7 +8162,7 @@
         source:[ "/en/changelog" ],
         target:(params, url) => `/oo-software/changelog/${new URL(url).match(/\/en\/(.*?)\/changelog/)[1]}` } ] },
   "openai.com":{ _name:"OpenAI",
-    ".":[ { title:"OpenAI Blog",
+    ".":[ { title:"Blog",
         docs:"https://docs.rsshub.app/en/new-media.html#openai",
         source:"/blog",
         target:(_, url) => {
